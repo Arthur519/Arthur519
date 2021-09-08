@@ -1,4 +1,10 @@
 ## Olá! Meu nome é Arthur e bem vindo(a) ao meu perfil!
+
+🔭 Hoje estou trabalhando, principalmente, com front-end.
+🌱 Estudando Python, Java, JavaScript, HTML e CSS.
+😄 Pronomes: Ele/Dele
+⚡ Fato divertido: Gosto de jogar FPS e estudar exatas.
+
  <div>
   <a href="https://github.com/Arthur519">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur519&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
