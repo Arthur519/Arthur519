@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Arthur e bem vindo(a) ao meu perfil!
 
 - 💫 Atualmente estou focado em HTML e CSS.
-- 🌖 Gosto muito de trarbalhar na parte de design gráfico.
+- 🌖 Gosto muito de trabalhar na parte de design gráfico.
 - 🪐 Pronomes: Ele/Dele
 - 🌟 Fato divertido: Gosto de jogos de ritmo, principalmente Osu! e Taiko no Tatsujin!
  <div>
