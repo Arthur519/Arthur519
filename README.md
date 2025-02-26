@@ -1,9 +1,7 @@
 ## Olá! Meu nome é Arthur e bem vindo(a) ao meu perfil!
 
-- 💫 Atualmente estou focado em HTML e CSS.
 - 🌖 Gosto muito de trabalhar na parte de design gráfico.
-- 🪐 Pronomes: Ele/Dele
-- 🌟 Fato divertido: Gosto de jogos de ritmo, principalmente Osu! e Taiko no Tatsujin!
+
  <div>
   <a href="https://github.com/Arthur519">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur519&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
